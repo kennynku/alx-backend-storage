@@ -1,4 +1,6 @@
- learn Python?
+#!/usr/bin/env python3
+""" 
+learn Python
 """
 from pymongo import MongoClient
 
